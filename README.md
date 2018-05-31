@@ -9,4 +9,4 @@
 ![](https://github.com/leslyrumyantseva/hw9/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD3.png?raw=true)
 # Бонус
 ## Чтобы после каждого знака препинания поставить пробел, я использовала регулярное выражение: (?<=[:;,.\]\)])(?=[\[\("А-Яа-я]) и заменила выходные данные на пробел \s .
-![](https://github.com/leslyrumyantseva/hw9/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD4.png?raw=true)
+![](
